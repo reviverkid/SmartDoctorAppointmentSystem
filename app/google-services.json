@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "368806085307",
+    "project_id": "medcare-58df6",
+    "storage_bucket": "medcare-58df6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368806085307:android:585318bc2f372abfe05f9e",
+        "android_client_info": {
+          "package_name": "thereviverkid.atwebpages.medcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368806085307-voh7ifsc7l802rh1aa9uo3ahfsnot7kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "thereviverkid.atwebpages.medcare",
+            "certificate_hash": "cdfac4299297c8bff86cd24a93b210e58829480b"
+          }
+        },
+        {
+          "client_id": "368806085307-69nvagcm1mdkfdj2gnls0sj05vk7o6ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtr0gd42yT16wOvCNbUGRcwi31ncElh84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368806085307-69nvagcm1mdkfdj2gnls0sj05vk7o6ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

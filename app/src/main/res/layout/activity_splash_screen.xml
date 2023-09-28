@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/innerColor"
+    tools:context=".SplashScreen">
+
+    <LinearLayout
+        android:id="@+id/upperlayout"
+        android:layout_width="match_parent"
+        android:layout_height="539dp"
+        android:layout_marginBottom="240dp"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="480dp"
+            android:layout_height="711dp"
+            android:padding="15dp"
+            android:src="@drawable/medcarel2" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="150dp"
+        android:fontFamily="@font/cutive"
+        android:gravity="center"
+        android:text="MedCare"
+        android:textColor="@color/mainTextColor"
+        android:textSize="35sp"></TextView>
+
+</RelativeLayout>
